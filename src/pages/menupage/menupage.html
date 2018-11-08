@@ -1,0 +1,43 @@
+
+<!--------------------------------------Main Navigation--------------------------->
+
+<ion-menu id="myMenu" [content]="content" side="right" persistent="true" [class]="selectedTheme">
+    <ion-header>
+      <ion-toolbar>
+        <ion-grid>
+  
+          <ion-row>
+            <ion-col col-6>
+              <div text-left style="" class="app-listname">
+                Project</div>
+            </ion-col>
+            <ion-col  (click)="home()">
+              <div class="tether-setting" style="text-align: right;font-size: 2rem; color:#a57958;">
+                <ion-icon ios="ios-settings-outline" md="md-settings"></ion-icon>
+              </div>
+  
+            </ion-col>
+            <ion-col>
+              <div class="tether-logout" style="font-size: 2rem; color:#a57958; text-indent: 0rem;  text-align: right;">
+                <ion-icon ios="ios-log-out" md="md-log-out"></ion-icon>
+              </div>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+  
+      </ion-toolbar>
+    </ion-header>
+  
+    <ion-content>
+      <div class="ion-tm">
+        <ion-list>
+          <button menuClose ion-item *ngFor="let p of pages" [class.activeHighlight]="checkActive(p)" (click)="openPage(p)">
+            <ion-icon [name]="p.icon" item-left></ion-icon>{{p.title}}</button>
+  
+        </ion-list>
+      </div>
+    </ion-content>
+  
+  </ion-menu>
+  <ion-nav [root]="rootPage" #content swipeBackEnabled="false" [class]="selectedTheme"></ion-nav>
+  <!--------------------------------------Main Navigation--------------------------->

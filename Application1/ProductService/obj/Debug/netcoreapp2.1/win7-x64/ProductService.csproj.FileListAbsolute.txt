@@ -1,0 +1,16 @@
+G:\C#.NetPrograms\Application1\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\Application1\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.AssemblyInfoInputs.cache
+G:\C#.NetPrograms\Application1\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.AssemblyInfo.cs
+G:\C#.NetPrograms\Application1\ProductService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+G:\C#.NetPrograms\Application1\ProductService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+G:\C#.NetPrograms\Application1\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.exe
+G:\C#.NetPrograms\Application1\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.deps.json
+G:\C#.NetPrograms\Application1\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.runtimeconfig.json
+G:\C#.NetPrograms\Application1\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.runtimeconfig.dev.json
+G:\C#.NetPrograms\Application1\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.dll
+G:\C#.NetPrograms\Application1\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.pdb
+G:\C#.NetPrograms\Application1\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorAssemblyInfo.cache
+G:\C#.NetPrograms\Application1\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorAssemblyInfo.cs
+G:\C#.NetPrograms\Application1\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorTargetAssemblyInfo.cache
+G:\C#.NetPrograms\Application1\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.dll
+G:\C#.NetPrograms\Application1\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.pdb
